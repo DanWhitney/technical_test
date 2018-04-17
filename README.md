@@ -1,2 +1,4 @@
-# technical_test
-Technical Test for 15gifts
+# Technical Test 
+Technical Test for 15gifts interview second round.
+
+
